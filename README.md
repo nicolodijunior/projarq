@@ -1,0 +1,2 @@
+# projarq
+Exercícios da Disciplina
